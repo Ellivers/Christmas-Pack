@@ -1,0 +1,4 @@
+#Type in /function e_christmas:give/light_string_magenta for easy op access to this item!
+
+tellraw @s [{"text":"Gave 1 "}, {"text":"["},{"text":"Magenta Light String","hoverEvent":{"action":"show_text","value":["",{"text":"Magenta Light String"}]}}, {"text": "] "}, {"text":"to "}, {"selector":"@s"}]
+give @s minecraft:item_frame{CuMoDa_Tree:54,TreeTag:"lsm_tree",CustomModelData:29,display:{Name:'{"text":"Magenta Light String","italic":false}'},EntityTag:{Tags:[ecp.tag,item_place,ls_place,magenta],Item:{id:"minecraft:apple",Count:1b,tag:{CustomModelData:68,CuMoDa:53,CuMoDa_2:52,CuMoDa_3:72,color:"magenta"}}},lightString:1b}

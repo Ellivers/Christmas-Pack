@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:item_frame",
+            "functions": [
+                {
+                    "function": "minecraft:set_nbt",
+                    "tag": "{CustomModelData:17,display:{Name:'{\"text\":\"Large Candle\",\"italic\":false}'},EntityTag:{Tags:[ecp.tag,item_place,lc_place]}}"
+                }
+            ]
+          }
+        ]
+      }
+    ]
+}

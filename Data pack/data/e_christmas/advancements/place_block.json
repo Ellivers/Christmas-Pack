@@ -1,0 +1,26 @@
+{
+    "criteria": {
+        "item_frame": {
+            "trigger": "minecraft:item_used_on_block",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:item_frame",
+                    "nbt": "{EntityTag:{Tags:[\"ecp.tag\",\"item_place\"]}}"
+                }
+            }
+        },
+        "armor_stand": {
+            "trigger": "minecraft:item_used_on_block",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:armor_stand",
+                    "nbt": "{EntityTag:{Tags:[\"ecp.tag\",\"item_place\"]}}"
+                }
+            }
+        }
+    },
+    "requirements": [["item_frame","armor_stand"]],
+    "rewards": {
+        "function": "e_christmas:place/fitem_place"
+    }
+}

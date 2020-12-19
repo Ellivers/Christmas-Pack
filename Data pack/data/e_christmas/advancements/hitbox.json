@@ -1,0 +1,16 @@
+{
+    "criteria": {
+      "hit": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+            "entity": {
+                "type": "minecraft:pig",
+                "nbt": "{Tags:[\"ecp.tag\",\"ecp.s_hitbox\"]}"
+            }
+        }
+      }
+    },
+    "rewards": {
+      "function": "e_christmas:check/hitbox_small_hit"
+    }
+  }

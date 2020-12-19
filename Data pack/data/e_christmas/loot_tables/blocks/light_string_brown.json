@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:item_frame",
+            "functions": [
+                {
+                    "function": "minecraft:set_nbt",
+                    "tag": "{CuMoDa_Tree:45,TreeTag:\"lsbr_tree\",CustomModelData:26,display:{Name:'{\"text\":\"Brown Light String\",\"italic\":false}'},EntityTag:{Tags:[ecp.tag,item_place,ls_place,brown],Fixed:1b,Invisible:1b,Item:{id:\"minecraft:apple\",Count:1b,tag:{CustomModelData:68,CuMoDa:44,CuMoDa_2:43,CuMoDa_3:69,color:\"brown\"}}},lightString:1b}"
+                }
+            ]
+          }
+        ]
+      }
+    ]
+}

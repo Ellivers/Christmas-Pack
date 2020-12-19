@@ -1,0 +1,1 @@
+execute as @e[type=pig,tag=ecp.s_hitplace] at @s if entity @e[distance=...5,tag=!ecp.s_hitbox] run tag @s remove ecp.s_hitplace

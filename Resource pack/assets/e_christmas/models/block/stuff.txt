@@ -1,0 +1,14 @@
+light_string_blue.png
+light_string_brown.png
+light_string_cyan.png
+light_string_green.png
+light_string_light_blue.png
+light_string_light_gray.png
+light_string_lime.png
+light_string_magenta.png
+light_string_orange.png
+light_string_pink.png
+light_string_purple.png
+light_string_red.png
+light_string_white.png
+light_string_yellow.png

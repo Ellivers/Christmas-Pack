@@ -1,0 +1,7 @@
+{
+    "parent": "block/golden_ornament",
+    "textures": {
+        "1": "e_christmas:block/red_ornament",
+		"particle": "e_christmas:block/red_ornament"
+    }
+}

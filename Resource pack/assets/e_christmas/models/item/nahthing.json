@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench AND love",
+	"elements": [
+		{
+			"from": [8, 0, 8],
+			"to": [9, 12, 9],
+			"color": 5,
+			"faces": {
+				"north": {"uv": [0, 0, 1, 12], "texture": "#missing"},
+				"east": {"uv": [0, 0, 1, 12], "texture": "#missing"},
+				"south": {"uv": [0, 0, 1, 12], "texture": "#missing"},
+				"west": {"uv": [0, 0, 1, 12], "texture": "#missing"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [8, 8, 2],
+			"to": [9, 12, 8],
+			"color": 4,
+			"faces": {
+				"north": {"uv": [0, 0, 1, 4], "texture": "#missing"},
+				"east": {"uv": [0, 0, 6, 4], "texture": "#missing"},
+				"south": {"uv": [0, 0, 1, 4], "texture": "#missing"},
+				"west": {"uv": [0, 0, 6, 4], "texture": "#missing"},
+				"up": {"uv": [0, 0, 1, 6], "texture": "#missing"},
+				"down": {"uv": [0, 0, 1, 6], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

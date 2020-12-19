@@ -1,0 +1,8 @@
+{
+	"parent": "block/large_candle",
+	"textures": {
+		"0": "e_christmas:block/large_candle_red",
+		"1": "e_christmas:block/candle_flame",
+		"particle": "e_christmas:block/large_candle_red"
+	}
+}

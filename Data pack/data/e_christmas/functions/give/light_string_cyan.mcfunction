@@ -1,0 +1,4 @@
+#Type in /function e_christmas:give/light_string_cyan for easy op access to this item!
+
+tellraw @s [{"text":"Gave 1 "}, {"text":"["},{"text":"Cyan Light String","hoverEvent":{"action":"show_text","value":["",{"text":"Cyan Light String"}]}}, {"text": "] "}, {"text":"to "}, {"selector":"@s"}]
+give @s minecraft:item_frame{CuMoDa_Tree:39,TreeTag:"lsc_tree",CustomModelData:24,display:{Name:'{"text":"Cyan Light String","italic":false}'},EntityTag:{Tags:[ecp.tag,item_place,ls_place,cyan],Item:{id:"minecraft:apple",Count:1b,tag:{CustomModelData:68,CuMoDa:38,CuMoDa_2:37,CuMoDa_3:67,color:"cyan"}}},lightString:1b}

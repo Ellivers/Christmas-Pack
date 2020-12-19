@@ -1,0 +1,7 @@
+{
+   "parent": "e_christmas:block/light_string_white",
+   "textures": {
+       "0": "e_christmas:item/light_string_magenta",
+	"particle": "e_christmas:item/light_string_magenta"
+   }
+}

@@ -1,0 +1,21 @@
+{
+  "_comment": "Look how cool I am I have a comment in json. Anyway, this dirt is just used for the item spawn effect and gets different NBT copied to it.",
+    "type": "minecraft:block",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:dirt",
+            "functions": [
+                {
+                    "function": "minecraft:set_nbt",
+                    "tag": "{itsCustom:42b}"
+                }
+            ]
+          }
+        ]
+      }
+    ]
+}

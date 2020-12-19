@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/firework_star",
+        "layer1": "item/firework_star_overlay"
+    },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":16}, "model": "e_christmas:block/christmas_wreath"},
+		{"predicate": {"custom_model_data":17}, "model": "e_christmas:item/golden_ornament"},
+		{"predicate": {"custom_model_data":18}, "model": "e_christmas:block/golden_ornament"},
+		{"predicate": {"custom_model_data":19}, "model": "e_christmas:item/red_ornament"},
+		{"predicate": {"custom_model_data":20}, "model": "e_christmas:block/red_ornament"},
+		{"predicate": {"custom_model_data":21}, "model": "e_christmas:item/silver_ornament"},
+		{"predicate": {"custom_model_data":22}, "model": "e_christmas:block/silver_ornament"}
+	]
+}

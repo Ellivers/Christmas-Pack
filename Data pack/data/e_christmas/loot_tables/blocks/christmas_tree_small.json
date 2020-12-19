@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:armor_stand",
+            "functions": [
+                {
+                    "function": "minecraft:set_nbt",
+                    "tag": "{CustomModelData:23,display:{Name:'{\"text\":\"Small Pine Tree\",\"italic\":false}'},EntityTag:{Rotation:[0f,0f],Tags:[ecp.tag,item_place,cts_place,cts_90,on_ground,uni_remove],NoGravity:1b,Invisible:1b,ShowArms:1b,DisabledSlots:4079166,Pose:{RightArm:[180f,0f,25f],Head:[0f,0f,0f]},ArmorItems:[{},{},{},{id:armor_stand,Count:1b,tag:{CustomModelData:24}}]}}"
+                }
+            ]
+          }
+        ]
+      }
+    ]
+}

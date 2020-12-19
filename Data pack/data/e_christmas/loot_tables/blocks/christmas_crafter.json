@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:armor_stand",
+            "functions": [
+                {
+                    "function": "minecraft:set_nbt",
+                    "tag": "{CustomModelData:26,display:{Name:'{\"text\":\"Christmas Crafter\",\"italic\":false,\"color\":\"aqua\"}'},EntityTag:{DisabledSlots:4144959,Small:1b,Rotation:[0f,0f],Pose:{Head:[0f,0f,0f]},Tags:[ecp.tag,item_place,cc_place,christmas_crafter,uni_remove,in_block],NoGravity:1b,Marker:1b,Invisible:1b,ArmorItems:[{},{},{},{id:armor_stand,Count:1b,tag:{CustomModelData:26}}],Fire:32767s}}"
+                }
+            ]
+          }
+        ]
+      }
+    ]
+}

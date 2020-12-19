@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:apple",
+            "functions": [
+                {
+                    "function": "minecraft:set_nbt",
+                    "tag": "{CustomModelData:17,display:{Name:'{\"text\":\"Candy Cane\",\"italic\":false}'}}"
+                }
+            ]
+          }
+        ]
+      }
+    ]
+}

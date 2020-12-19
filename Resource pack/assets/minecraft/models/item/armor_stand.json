@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/armor_stand"
+    },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":23}, "model": "e_christmas:item/christmas_tree_small"},
+		{"predicate": {"custom_model_data":24}, "model": "e_christmas:block/christmas_tree_small_log"},
+		{"predicate": {"custom_model_data":25}, "model": "e_christmas:block/christmas_tree_small_leaves"},
+		{"predicate": {"custom_model_data":26}, "model": "e_christmas:block/christmas_crafter"}
+	]
+}

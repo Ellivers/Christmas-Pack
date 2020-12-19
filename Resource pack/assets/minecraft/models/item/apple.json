@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/apple"
+    },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":16}, "model": "e_christmas:block/mistletoe"},
+		{"predicate": {"custom_model_data":17}, "model": "e_christmas:item/candy_cane"},
+		{"predicate": {"custom_model_data":68}, "model": "e_christmas:item/nahthing"}
+	]
+}

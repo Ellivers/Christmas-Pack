@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "e_christmas:item/golden_ornament",
+		"layer1": "e_christmas:item/nahthing"
+    }
+}
