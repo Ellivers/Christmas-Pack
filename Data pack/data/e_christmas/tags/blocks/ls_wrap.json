@@ -1,6 +1,5 @@
 {
     "values": [
-        "#minecraft:fences",
-        "#minecraft:walls"
+        "#minecraft:fences"
     ]
 }

@@ -3,7 +3,6 @@
 	"textures": {
 		"0": "e_christmas:block/christmas_wreath",
 		"1": "e_christmas:block/christmas_wreath_sides",
-		"2": "e_christmas:block/christmas_wreath_back",
 		"particle": "e_christmas:block/christmas_wreath"
 	},
 	"elements": [
@@ -13,7 +12,6 @@
 			"faces": {
 				"north": {"uv": [0, 13, 16, 16], "texture": "#0"},
 				"east": {"uv": [0, 13, 2, 16], "texture": "#1"},
-				"south": {"uv": [0, 13, 16, 16], "texture": "#2"},
 				"west": {"uv": [14, 13, 16, 16], "texture": "#1"},
 				"up": {"uv": [0, 11, 16, 13], "texture": "#1"},
 				"down": {"uv": [0, 14, 16, 16], "texture": "#1"}
@@ -25,7 +23,6 @@
 			"faces": {
 				"north": {"uv": [0, 0, 16, 3], "texture": "#0"},
 				"east": {"uv": [0, 0, 2, 3], "texture": "#1"},
-				"south": {"uv": [0, 0, 16, 3], "texture": "#2"},
 				"west": {"uv": [14, 0, 16, 3], "texture": "#1"},
 				"up": {"uv": [0, 0, 16, 2], "rotation": 180, "texture": "#1"},
 				"down": {"uv": [0, 3, 16, 5], "texture": "#1"}
@@ -37,10 +34,7 @@
 			"faces": {
 				"north": {"uv": [0, 3, 3, 12], "texture": "#0"},
 				"east": {"uv": [0, 4, 2, 13], "texture": "#1"},
-				"south": {"uv": [13, 4, 16, 13], "texture": "#2"},
-				"west": {"uv": [0, 3, 2, 12], "texture": "#1"},
-				"up": {"uv": [0, 0, 3, 2], "texture": "#missing"},
-				"down": {"uv": [0, 0, 3, 2], "texture": "#missing"}
+				"west": {"uv": [0, 3, 2, 12], "texture": "#1"}
 			}
 		},
 		{
@@ -49,10 +43,7 @@
 			"faces": {
 				"north": {"uv": [13, 3, 16, 12], "texture": "#0"},
 				"east": {"uv": [11, 3, 13, 12], "texture": "#1"},
-				"south": {"uv": [0, 3, 3, 12], "texture": "#2"},
-				"west": {"uv": [14, 3, 16, 12], "texture": "#1"},
-				"up": {"uv": [0, 0, 3, 2], "texture": "#missing"},
-				"down": {"uv": [0, 0, 3, 2], "texture": "#missing"}
+				"west": {"uv": [14, 3, 16, 12], "texture": "#1"}
 			}
 		},
 		{
